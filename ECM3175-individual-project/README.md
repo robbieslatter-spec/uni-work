@@ -1,6 +1,8 @@
 # ECM3175 Individual Project: Sport Injury Biomechanics
 
-Start here. Read the files in this order:
+Start here. Every guide is also a **Word document** (`.docx`) with the same number: `0_START_HERE.docx`, `1_project_ideas.docx` and so on, with the references in `6_references.docx`. Use the Word versions to read, print or edit. The `.md` copies are for viewing on GitHub.
+
+Read the files in this order:
 
 | File | What it is |
 |---|---|
