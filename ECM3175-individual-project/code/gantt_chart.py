@@ -23,18 +23,26 @@ FIG_DIR = Path(__file__).resolve().parent.parent / "figures"
 # (task name, start, end, phase)
 TASKS = [
     ("Weekly supervisor meetings + logbook", date(2026, 12, 7), date(2027, 4, 30), "Management"),
+    ("Order parts (GBP 75 budget, order form)", date(2026, 12, 7), date(2026, 12, 11), "Design"),
     ("Rig concept design + CAD", date(2026, 12, 7), date(2026, 12, 18), "Design"),
-    ("Risk assessment, lab induction, order parts", date(2026, 12, 7), date(2026, 12, 18), "Design"),
-    ("Literature review (continued)", date(2026, 12, 14), date(2027, 1, 22), "Design"),
-    ("Build headform, neck and ball launch", date(2027, 1, 11), date(2027, 2, 5), "Build"),
-    ("Sensor electronics + logging code", date(2027, 1, 18), date(2027, 2, 5), "Build"),
+    ("Write RAMS (risk assessment + method statement)", date(2026, 12, 7), date(2026, 12, 16), "Design"),
+    ("RAMS approval: supervisor, then module convenor", date(2026, 12, 16), date(2027, 1, 15), "Design"),
+    ("RAMS approved: lab work can start", date(2027, 1, 15), date(2027, 1, 15), "Milestone"),
+    ("Literature review chapter (expanded)", date(2026, 12, 14), date(2027, 1, 22), "Write"),
+    ("Logging code + sensor bench test", date(2027, 1, 11), date(2027, 1, 29), "Build"),
+    ("Build headform, necks and ball delivery", date(2027, 1, 15), date(2027, 2, 5), "Build"),
     ("Calibrate and validate rig vs model", date(2027, 2, 1), date(2027, 2, 19), "Build"),
-    ("Rig validated", date(2027, 2, 19), date(2027, 2, 19), "Milestone"),
-    ("Main tests: speed x pressure x neck", date(2027, 2, 22), date(2027, 3, 19), "Test"),
-    ("Extension: wet / vintage ball tests", date(2027, 3, 8), date(2027, 3, 19), "Test"),
+    ("Methodology & theory chapter", date(2027, 2, 1), date(2027, 2, 19), "Write"),
+    ("Rig validated (go / no-go)", date(2027, 2, 19), date(2027, 2, 19), "Milestone"),
+    ("Main tests: speed x pressure x neck", date(2027, 2, 22), date(2027, 3, 12), "Test"),
+    ("Extension: wet / vintage ball (if budget)", date(2027, 3, 8), date(2027, 3, 19), "Test"),
+    ("All data collected", date(2027, 3, 19), date(2027, 3, 19), "Milestone"),
+    ("Experimental work chapter", date(2027, 3, 1), date(2027, 3, 19), "Write"),
     ("Data analysis + model refinement", date(2027, 3, 1), date(2027, 4, 2), "Analyse"),
-    ("Write final report", date(2027, 3, 15), date(2027, 4, 30), "Write"),
+    ("Decommission rig, return equipment", date(2027, 3, 29), date(2027, 4, 2), "Test"),
+    ("Results, discussion, abstract", date(2027, 3, 22), date(2027, 4, 9), "Write"),
     ("Full draft to supervisor", date(2027, 4, 9), date(2027, 4, 9), "Milestone"),
+    ("Revise, proofread, check 35 pages", date(2027, 4, 12), date(2027, 4, 30), "Write"),
     ("Final report deadline (12 noon)", date(2027, 5, 3), date(2027, 5, 3), "Milestone"),
     ("Interview preparation", date(2027, 5, 4), date(2027, 5, 18), "Write"),
     ("Interview (19-28 May)", date(2027, 5, 19), date(2027, 5, 28), "Write"),
@@ -53,7 +61,7 @@ COLOURS = {
 
 
 def main():
-    fig, ax = plt.subplots(figsize=(11, 5.6))
+    fig, ax = plt.subplots(figsize=(11, 7.0))
     for name, start, end in VACATIONS:
         ax.axvspan(start, end + timedelta(days=1), color="grey", alpha=0.12)
         ax.text(start + (end - start) / 2, -0.9, name, ha="center", va="center",

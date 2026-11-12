@@ -14,7 +14,7 @@
 - [ ] **Start your logbook.** Use a notebook or a OneNote/Word file, and date every entry. Record ideas, meetings, sources, calculations and test results. The slides ask for this, and it helps a lot in the interview.
 - [ ] **Read the five key papers:** [1], [4] and [5] in full; skim [2] and [8]. For each, note what they did, what they found and what they missed.
 - [ ] **Run the code** (see `README.md`) and look at the figures. Make sure you can explain each figure in one sentence.
-- [ ] **Buy a ball pump with a pressure gauge** (about £10–20). Have a size 5 football ready.
+- [ ] **Get a size 5 football and a pump with a pressure gauge** for the ball-drop test. Borrow them or use your own. Department money can't refund anything you buy yourself (see the budget rules in `4_full_project_plan.md`).
 - [ ] **Check the AI rules for ECM3175 on ELE.** Exeter uses four categories: AI-integrated, AI-assisted, AI-minimal and AI-prohibited. Find out which one applies before you use any AI-written text, and acknowledge AI help if the rules ask you to.
 
 ## Week 2: Sat 21 to Fri 27 Nov (preliminary work)
@@ -57,7 +57,7 @@
 ## Questions for your first supervisor meeting
 1. Is the heading-rig direction a good fit for the "Sport Injury Biomechanics" title? Would you prefer a different emphasis?
 2. What equipment can I use? For example: a Hybrid III or other headform, a ball launcher (perhaps from Sport and Health Sciences), a high-speed camera, a force plate, accelerometers or a data-acquisition system, a drop tower, an Instron, 3D printers, the workshop.
-3. Is there a budget for parts (about £50–150 for a sensor, microcontroller and materials)? How do I order through the department?
+3. The default budget is £75. Can you check my parts list before I send the Order Form? Can I borrow an Arduino or ESP32, footballs, or departmental 3D printing?
 4. Ethics: with no human participants, do I still need to fill in an ethics self-assessment form?
 5. Which GenAI category applies to ECM3175, and how should I acknowledge AI tools?
 6. Who are the technicians, and which lab inductions or risk assessments do I need before building and testing?
@@ -65,19 +65,9 @@
 
 ---
 
-## Kit list for the recommended project
-Prices are rough guides only, so check suppliers. Ask the department first: they may already own it.
-
-| Item | Purpose | Approx. cost |
-|---|---|---|
-| ADXL375 ±200 g accelerometer breakout | Measures head acceleration | £20–35 |
-| ESP32 / Arduino / Teensy board + microSD module | Logs data at 3.2 kHz | £15–40 |
-| Mannequin head (or 3D-printed shell) + filler | Headform of about 4.5 kg | £15–40 |
-| Rubber blocks / springs (2–3 stiffnesses) | Swappable "necks" | £10–30 |
-| Frame materials (aluminium extrusion, MDF) | Base, torso mass, drop or pendulum frame | workshop |
-| Football ×2, pump with gauge | Test balls, pressure control | £30–60 |
-| Replica vintage leather ball (extension) | U1 tests | £30–60 |
-| Phone with 240 fps slow-motion | Ball speed and contact checks | (own) |
+## Kit and budget
+The department gives you **£75**. Parts are ordered **only** through the Order Form (Preferred Suppliers List) to engstudentordering@exeter.ac.uk, after your supervisor agrees. **Don't buy parts yourself: you won't be reimbursed.**
+The full budget table (target £65 or less) is in section 6 of [`4_full_project_plan.md`](4_full_project_plan.md). Borrow first: Arduinos, footballs, 3D printing and workshop stock.
 
 ## Risks (also needed in the report)
 | Risk | Likelihood | Impact | What you'll do about it |
@@ -90,7 +80,7 @@ Prices are rough guides only, so check suppliers. Ask the department first: they
 | Illness or other deadlines | Low | Medium | Two-week buffer in the Gantt chart; weekly meetings catch slippage early |
 | Data loss | Low | High | Code and data on GitHub plus OneDrive; logbook |
 
-**Health and safety:** flying balls (eye protection, keep clear of the launch path); falling masses on drop rigs (guarding, never put hands under the mass); pinch points; lifting heavy torso masses; low-voltage electronics only; complete the lab inductions and the department risk assessment before testing.
+**Health and safety:** flying balls (eye protection, keep clear of the launch path); falling masses on drop rigs (guarding, never put hands under the mass); pinch points; lifting heavy torso masses; low-voltage electronics only. Complete the lab inductions, and **get your RAMS (risk assessment + method statement) approved before any lab or workshop work.** A starter is in `5_RAMS_starter.md`.
 
 **Sustainability:** reuse balls and existing lab equipment; use reclaimed or 3D-printed parts where possible; low-power electronics. For the shoe project, extending shoe life cuts waste.
 

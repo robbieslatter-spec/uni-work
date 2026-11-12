@@ -7,6 +7,8 @@ Start here. Read the files in this order:
 | [`1_project_ideas.md`](1_project_ideas.md) | Your two ideas (heading, running shoes) expanded and improved, three new ideas, a comparison table and my recommendation |
 | [`2_next_steps.md`](2_next_steps.md) | A dated to-do list up to the **4 Dec 2026** deadline, a draft email to your supervisor, meeting questions, kit list, risks, H&S |
 | [`3_preliminary_report_OUTLINE.docx`](3_preliminary_report_OUTLINE.docx) | The preliminary report in the module's layout, with bullet points to turn into your own paragraphs. Figure 1, the Gantt chart and the risk table are already in it |
+| [`4_full_project_plan.md`](4_full_project_plan.md) | **The whole-project plan to May 2027:** rules (£75 budget, RAMS, 35-page limit), where the marks are, final report blueprint, week-by-week tasks, decision gates, test matrix, interview prep |
+| [`5_RAMS_starter.md`](5_RAMS_starter.md) | Starter content for your RAMS (risk assessment + method statement), which must be approved before any lab work |
 | [`references.md`](references.md) | 31 references, checked to exist, with a note on what each is useful for |
 | `code/` | Python models and analysis scripts (your preliminary work) |
 | `figures/` | Figures and tables made by the code |
