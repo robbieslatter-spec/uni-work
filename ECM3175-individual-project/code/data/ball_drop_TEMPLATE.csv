@@ -1,0 +1,7 @@
+# Ball drop test - copy this file (e.g. to my_ball_drops.csv) and add one row per drop.
+# Heights in metres, measured to the BOTTOM of the ball. Drop from 2.00 m.
+# pressure_atm = gauge pressure in atmospheres (1 atm = 14.7 psi = 1.013 bar).
+# contact_frames and fps are optional: leave them empty if you did not count frames.
+# Example row (delete the # to use it):
+# 0.85,2.00,1.36,3,240
+pressure_atm,drop_height_m,rebound_height_m,contact_frames,fps
