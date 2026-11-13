@@ -11,11 +11,13 @@ Read the files in this order:
 | [`3_preliminary_report_OUTLINE.docx`](3_preliminary_report_OUTLINE.docx) | The preliminary report in the module's layout, with bullet points to turn into your own paragraphs. Figure 1, the Gantt chart and the risk table are already in it |
 | [`4_full_project_plan.md`](4_full_project_plan.md) | **The whole-project plan to May 2027:** rules (£75 budget, RAMS, 35-page limit), where the marks are, final report blueprint, week-by-week tasks, decision gates, test matrix, interview prep |
 | [`5_RAMS_starter.md`](5_RAMS_starter.md) | Starter content for your RAMS (risk assessment + method statement), which must be approved before any lab work |
-| [`references.md`](references.md) | 31 references, checked to exist, with a note on what each is useful for |
+| [`references.md`](references.md) | 40 references (including 2019–2025 studies), checked to exist, with a note on what each is useful for |
 | `7_preliminary_report_TEMPLATE.docx` | **Write your preliminary report here.** Module layout with a slot for every paragraph (points to make, papers to cite, word target). Figure 1, the Gantt chart and the risk table are already in it. Tested to fit in 5 pages |
 | [`8_preliminary_report_CHECKLIST.md`](8_preliminary_report_CHECKLIST.md) | Every task needed to finish and submit the preliminary report, in order, with dates |
-| `10_introduction_DRAFT.docx` | Draft Introduction section (overview: why, what, how; aim; five objectives), ready to adapt and paste into the template |
 | [`9_preliminary_report_GUIDE.md`](9_preliminary_report_GUIDE.md) | **Step-by-step guide to writing the preliminary report yourself:** each stage explained (understanding the task, aim and objectives, literature search and critical review, preliminary work, writing each section, figures, references, editing, submitting), with examples, common mistakes and "done when" checks |
+| `10_introduction_DRAFT.docx` | Draft Introduction section (overview: why, what, how; aim; five objectives). Citations use the same numbering as the literature review |
+| `11_literature_review_DRAFT.docx` | Draft Background and literature review section (five themed sub-sections ending in the research gap and questions), plus the combined, numbered reference list [1]–[22] for the Introduction and literature review |
+| [`12_literature_notes.md`](12_literature_notes.md) | Research notes behind the review: search log, a literature matrix of all 22 sources (what they did, findings, limitations, use), a map of where the evidence agrees and conflicts, checks still needed, further reading |
 | `code/` | Python models and analysis scripts (your preliminary work) |
 | `figures/` | Figures and tables made by the code |
 
