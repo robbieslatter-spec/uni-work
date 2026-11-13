@@ -91,9 +91,9 @@ These numbers only hold if you cite the sources in the same order as this plan. 
 |---|---|---|
 | 1. Context (1 sentence) | What the rules allow | Law 2: 0.6–1.1 atm; 410–450 g [15] |
 | 2. Theory (1 sentence) | What a model predicted | Hertz contact model: pressure has **little effect** on the impact [16] |
-| 3. Laboratory evidence (1–2 sentences) | Group the studies that **did** find an effect | Halving pressure cut head response by 10–31% (numerical model + 3 volunteers) [7]. Test head and neck at 34–76 kPa: lower pressure, lower linear and rotational acceleration [17]. Ball cannon at ≈17 m/s, 0.6 vs 1.0 bar: lower pressure helped in most cases, but is "not a universal solution" [18] |
+| 3. Laboratory evidence (1–2 sentences) | Group the studies that **did** find an effect | Halving pressure cut head response by 10–31% (numerical model + 3 volunteers) [7]. Test head and neck at 34–76 kPa and 17–22 m/s: lower pressure, lower linear and rotational acceleration [17]. Ball cannon at ≈17 m/s, 0.6 vs 1.0 bar: lower pressure helped in most cases, but is "not a universal solution" [18] |
 | 4. Players (1 sentence) | Contrast with the human study | 12 players at 0.4 vs 0.54 atm: lower impact force but **no change** in head acceleration [19] |
-| 5. Your explanation (1–2 sentences) | **Critical thinking:** why might they disagree? | (a) Players brace their necks, while the laboratory tests used a fixed neck. (b) [19] tested a narrow pressure range at low speeds (5 and 8 m/s). Which explanation is right hasn't been tested, which leads to sub-section 4 |
+| 5. Your explanation (1–2 sentences) | **Critical thinking:** why might they disagree? | (a) Players brace their necks, while the laboratory tests used a fixed neck. (b) [19] tested a narrow pressure range at low speeds (5 and 8 m/s), whereas [17] found the effect at 17–22 m/s. Which explanation is right hasn't been tested, which leads to sub-section 4 |
 
 **Sentence starters:** "Law 2 permits…" · "A theoretical model predicted…" · "Laboratory studies, however, …" · "In contrast, when players…" · "One possible explanation is…"
 

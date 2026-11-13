@@ -18,6 +18,7 @@ Read the files in this order:
 | `10_introduction_DRAFT.docx` | **Your introduction, revised:** citations added, focused aim, five measurable objectives, the research gap stated, and an extension. Citations [1]–[10] match the literature review numbering |
 | `11_literature_review_DRAFT.docx` | Draft Background and literature review section (five themed sub-sections ending in the research gap and questions), plus the combined, numbered reference list [1]–[22] for the Introduction and literature review |
 | [`13_literature_review_PLAN.md`](13_literature_review_PLAN.md) | **Detailed plan for writing the Background and literature review yourself:** five sub-sections, each with its job, sentence-by-sentence moves, the facts and sources to use, the critical point, starters, reference numbering, four work sessions and a "done when" check |
+| [`14_literature_review_LINKS.md`](14_literature_review_LINKS.md) | Clickable links (DOI or official page, plus free full-text copies where available) for all 22 sources in the Introduction and literature review |
 | [`12_literature_notes.md`](12_literature_notes.md) | Research notes behind the review: search log, a literature matrix of all 22 sources (what they did, findings, limitations, use), a map of where the evidence agrees and conflicts, checks still needed, further reading |
 | `code/` | Python models and analysis scripts (your preliminary work) |
 | `figures/` | Figures and tables made by the code |

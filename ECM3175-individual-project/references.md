@@ -113,7 +113,7 @@ The numbers match `1_project_ideas.md` and the report outline. The format follow
 [35] Queen, R.M., Weinhold, P.S., Kirkendall, D.T. and Yu, B. (2003) "Theoretical study of the effect of ball properties on impact force in soccer heading", *Medicine & Science in Sports & Exercise*, 35(12), 2069–2076. doi:10.1249/01.MSS.0000099081.20125.A5
 *Use for:* theory says pressure matters little; a rigid neck lowers head acceleration and HIC.
 
-[36] Cecchi, N.J., Monroe, D.C., Moscoso, W., Hicks, J.W. and Reinkensmeyer, D.J. (2020) "Effects of soccer ball inflation pressure and velocity on peak linear and rotational accelerations of ball-to-head impacts", *Sports Engineering*, 23, article 16. ⚠️ *check co-author initials*
+[36] Cecchi, N.J., Monroe, D.C., Moscoso, W., Hicks, J.W. and Reinkensmeyer, D.J. (2020) "Effects of soccer ball inflation pressure and velocity on peak linear and rotational accelerations of ball-to-head impacts", *Sports Engineering*, 23, article 16. doi:10.1007/s12283-020-00331-0 ⚠️ *check co-author initials*
 *Use for:* test head and neck at 34–76 kPa; lower pressure gave lower linear and rotational acceleration.
 
 [37] England, R., Liverseidge, S., Miyazaki, Y., Oxford, S.W., Phillips, I. and Farmer, J. (2025) "Does reduced ball inflation pressure in association football decrease head impact kinematics?", *Annals of Biomedical Engineering*, 53(11). doi:10.1007/s10439-025-03804-0
@@ -125,5 +125,5 @@ The numbers match `1_project_ideas.md` and the report outline. The format follow
 [39] Becker, S., Berger, J., Backfisch, M., Ludwig, O., Kelm, J. and Fröhlich, M. (2019) "Effects of a 6-week strength training of the neck flexors and extensors on the head acceleration during headers in soccer", *Journal of Sports Science and Medicine*, 18(4), 729–737.
 *Use for:* neck training gave no clear benefit (33 players).
 
-[40] Peek, K., et al. (2022) "The effect of the FIFA 11+ with added neck exercises on maximal isometric neck strength and peak head impact magnitude during heading: a pilot study", *Sports Medicine*, 52, 655–668. ⚠️ *check the full author list*
+[40] Peek, K., et al. (2022) "The effect of the FIFA 11+ with added neck exercises on maximal isometric neck strength and peak head impact magnitude during heading: a pilot study", *Sports Medicine*, 52(3), 655–668. doi:10.1007/s40279-021-01564-0 ⚠️ *check the full author list*
 *Use for:* neck exercises cut peak linear head acceleration by 11.8%, against 5.0% in controls (52 adolescents).
